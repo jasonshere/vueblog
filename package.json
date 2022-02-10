@@ -37,7 +37,7 @@
     "material-components-web": "^0.42.1",
     "mint-ui": "^2.2.13",
     "moment": "^2.23.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "popper.js": "^1.14.6",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
